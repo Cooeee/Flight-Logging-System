@@ -1,0 +1,11 @@
+#menu ul {
+	font-color: red;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: left;
+}
+
+#menu ul li { display: inline; }
+#menu ul li a {text-decoration: none; color: white; background-color: #036; padding: .2em 1em;}
+#menu ul li a:hover {color: white; background-color: #369;}
